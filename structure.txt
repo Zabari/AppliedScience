@@ -1,0 +1,2 @@
+Directory Structure
+On main hard drive, there is a folder for the dtatbases, and a seperate folder for each year, month, and day where files are stored.  Databases are stored in a SEPARATE FOLDER.
